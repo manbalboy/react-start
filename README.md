@@ -20,3 +20,17 @@ npx babel --watch src --out-dir . --presets @babel/preset-react
 ```
 
 ## Webpack
+### 다양한 기능제공
+- 파일 내용을 기반으로 파일 이름에 해시값 추가 => 효율적으로 브라우저 캐싱 이용
+- 사용되지 않은 코드 제거
+- 자바스크립트 압축
+- 환경변수 주입
+- ESM , CommonJs 와 같은 모듈방식을 사용
+
+
+
+### 설치 
+```
+npm i webpack webpack-cli [react, react-dom]
+```
+
