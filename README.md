@@ -37,3 +37,13 @@ npm i webpack webpack-cli [react, react-dom]
 
 ## create-react-app
 ### 리액트 개발 환경을 직접 구축하려면 많은 지식과 노력이 필요/ 페이스북에서 관리하는 공식 툴
+### cra 명령어 
+```
+    "start": "react-scripts start", //http 로 하고 싶을경우 set HTTPS=true && npm start
+    "build": "react-scripts build",
+    "test": "react-scripts test",   //__test__ 폴더 하위 에 있는거는 test 파일로 인식  
+    "eject": "react-scripts eject"  //특수한경우가 아니면 하지 않는다. 
+```
+
+## css 작성 방법 결정하기 
+### 일반적인 css 파일로 작성하기 
