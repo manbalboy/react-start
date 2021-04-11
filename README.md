@@ -47,3 +47,7 @@ npm i webpack webpack-cli [react, react-dom]
 
 ## css 작성 방법 결정하기 
 ### 일반적인 css 파일로 작성하기 
+```
+module 화 해서 해야 충돌이 없음 
+간편하게 입력하기위해서 classnames 패키지를 이용
+```
