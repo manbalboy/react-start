@@ -51,3 +51,8 @@ npm i webpack webpack-cli [react, react-dom]
 module 화 해서 해야 충돌이 없음 
 간편하게 입력하기위해서 classnames 패키지를 이용
 ```
+
+### sass scss
+```
+sass 를 이용하려면 node-sass 모듈을 이용해야함
+```

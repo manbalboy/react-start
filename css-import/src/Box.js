@@ -1,5 +1,6 @@
 import React from 'react';
-import Style from './Box.module.css';
+// import Style from './Box.module.css';
+import Style from './Box.module.scss';
 import cn from 'classnames';
 
 export default function Box({ size }) {
