@@ -56,3 +56,68 @@ module 화 해서 해야 충돌이 없음
 ```
 sass 를 이용하려면 node-sass 모듈을 이용해야함
 ```
+### css-in-js
+```
+    자바스크립트 안에 css 를 안에 insert 해서 사용하는 방법
+
+    styled-components
+```
+
+
+
+
+
+# 기타 프론트앤드 참고 사이트 
+```
+👍 Google Font
+[구글 폰트 ] https://fonts.google.com/?sidebar.open&selection.family=Noto+Sans+KR:wght@300#standard-styles
+[상업용 무료 폰트 사이트 - 눈누] https://noonnu.cc/
+
+👍 Color - 색상 관련
+[Material 색상조합] https://material.io/resources/color/#!/?view.left=0&view.right=0
+[Color hunt 색상조합] https://colorhunt.co/
+[colorco] https://colourco.de/
+
+👍 무료 아이콘 , 음악
+[무료 아이콘] https://fontawesome.com/icons?d=gallery
+[무료 음악]https://www.bensound.com/
+
+👍 로고 등 디자인 간편 제작
+[Canva] https://www.canva.com/
+
+👍 CSS
+[valid 검사]https://validator.w3.org/
+[css reset] https://meyerweb.com/eric/tools/css/reset/
+[css trigger - 렌더링 관련]https://csstriggers.com/
+[css 브라우저 호환 확인]https://caniuse.com/
+[box-shadow 생성] https://www.cssmatic.com/box-shadow
+[Gradient] https://cssgradient.io/
+
+👍 이미지 관련
+[랜덤 이미지 생성] https://picsum.photos/
+[cool한 배경] https://coolbackgrounds.io/
+[이미지 배경 제거] https://www.remove.bg/ko
+[무료 이미지] https://unsplash.com/
+[무료 이미지] https://www.pexels.com/ko-kr/
+[무료 이미지 사이트 추천 링크] https://techcloud.kr/no-copyright-free-image-websites/
+
+👍 디자인 참고
+[dribbble] https://dribbble.com/
+[awwards] https://www.awwwards.com/
+[국내 디자인 korea 웹디자인] http://koreawebdesign.com/site/
+[반응형 미디어쿼리] https://mediaqueri.es/
+
+👍 웹사이트 로딩 스피드 분석
+[로딩 스피드] https://developers.google.com/speed/pagespeed/insights/
+
+👍 코딩 컨벤션
+[토스트UI NHN] https://ui.toast.com/fe-guide/ko_CODING-CONVENTION
+
+👍 정규 표현식 (Regex) 확인
+[Regex] https://regexr.com/
+
+👍 문서 구조 생성 (ascii - tree)
+[Ascii tree] https://ascii-tree-generator.com/
+
+
+```
