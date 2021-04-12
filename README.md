@@ -63,8 +63,17 @@ sass 를 이용하려면 node-sass 모듈을 이용해야함
     styled-components
 ```
 
+## SPA
 
+### javascript 에서 브라우저로 요청 
+```
+pushState, replaceState ,onpopstate API 를 이용한다.
+```
 
+### react-router-dom
+```
+npm i react-router-dom
+```
 
 
 # 기타 프론트앤드 참고 사이트 
